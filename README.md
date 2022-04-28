@@ -5,7 +5,7 @@
 
     <h3>Python</h3>
 
-[![alt text](Coding.jpg)]
+
 
             <p> Python is a coding language I started learning when I was 14 years old. I stopped practicing it after about a year but have recently started picking it back up for my college coursework. Below you will see a program I wrote to calculate the total estimated cost to coat a cylinder in paint. </p>
 
@@ -47,5 +47,6 @@ def main():
 main ()
                 
 ```
+[![alt text](Coding.jpg)]
 [Next](NationalGuard.md)
 </body>
