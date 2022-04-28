@@ -2,8 +2,9 @@
     <h2>About Me</h2>
            <p> My name is Thatcher Karsch. I am from a small town called Bonne Terre, Missouri. When I was younger, I wanted to be a genetic engineer after doing a project int the eighth grade. After going to college, I realized that is not what I wanted to do and started pursuing a career in the field of information technology. I have some prior experience from my early high school years and my military occupation also correlates to the IT field. I figured I would combine the two to further my knowledge and broaden the spectrum on which I was learning. </p>
 
-    <h3>Python</h3>
-    [![alt text](Coding.jpg)]
+ 
+<h3>Python</h3>
+    [![alt text](Coding.jpg)] 
             <p> Python is a coding language I started learning when I was 14 years old. I stopped practicing it after about a year but have recently started picking it back up for my college coursework. Below you will see a program I wrote to calculate the total estimated cost to coat a cylinder in paint. </p>
 
 ```markdown
