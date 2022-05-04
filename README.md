@@ -47,6 +47,6 @@ def main():
 main ()
                 
 ```
-<p><a href="NationalGuard.md">Next</a></p>
 </body>
 </html>
+[Next](NationalGuard.md)
