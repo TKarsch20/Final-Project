@@ -13,40 +13,40 @@
             <p> Python is a coding language I started learning when I was 14 years old. I stopped practicing it after about a year but have recently started picking it back up for my college coursework. Below you will see a program I wrote to calculate the total estimated cost to coat a cylinder in paint. </p>
 
 <code>
-import math
-def get_nonnegative_float_from_user(prompt):
-    while True:
-        try:
-            input_value = float(input(prompt))
-            if (input_value < 0):
-                print("Only nonnegative values are allowed. Please re-enter the value.")
-                continue
-            break
-        except ValueError:
-            print("Please enter a nonnegative numerical value.")
-            continue
-    return input_value
-def perform_calculation():
-        radius = get_nonnegative_float_from_user("Enter the cylinder's radius: ")
-        height = get_nonnegative_float_from_user("Enter the cylinder's height: ")
-        area = (2 * math.pi * radius * height + 2 * math.pi * radius **2)
-        print ("The area of the cylinder is" ,area, "feet^2.")
-        pints = (area / 5) 
-        (math.ceil(pints)) 
-        print ("There are" ,(math.floor(pints)), "pints required to coat the cylinder.") 
-        cost = (pints * 8.75)
-        (math.ceil (cost))
-        print ("The total cost will be $" ,(round (cost, 2)))
-def main():
-        print("This program calculates the cost of coating a cylinder along with the area and the number of pints required.")
-        while True:
-                perform_calculation()
-                response = input("Would you like to perform another calculation (y/n)? ")
-                if (response == "y"):
-                        print("")
-                        continue
-                else:
-                        break
+import math<br>
+def get_nonnegative_float_from_user(prompt):<br>
+    while True:<br>
+        try:<br>
+            input_value = float(input(prompt))<br>
+            if (input_value < 0):<br>
+                print("Only nonnegative values are allowed. Please re-enter the value.")<br>
+                continue<br>
+            break<br>
+        except ValueError:<br>
+            print("Please enter a nonnegative numerical value.")<br>
+            continue<br>
+    return input_value<br>
+def perform_calculation():<br>
+        radius = get_nonnegative_float_from_user("Enter the cylinder's radius: ")<br>
+        height = get_nonnegative_float_from_user("Enter the cylinder's height: ")<br>
+        area = (2 * math.pi * radius * height + 2 * math.pi * radius **2)<br>
+        print ("The area of the cylinder is" ,area, "feet^2.")<br>
+        pints = (area / 5) <br>
+        (math.ceil(pints)) <br>
+        print ("There are" ,(math.floor(pints)), "pints required to coat the cylinder.") <br>
+        cost = (pints * 8.75)<br>
+        (math.ceil (cost))<br>
+        print ("The total cost will be $" ,(round (cost, 2)))<br>
+def main():<br>
+        print("This program calculates the cost of coating a cylinder along with the area and the number of pints required.")<br>
+        while True:<br>
+                perform_calculation()<br>
+                response = input("Would you like to perform another calculation (y/n)? ")<br>
+                if (response == "y"):<br>
+                        print("")<br>
+                        continue<br>
+                else:<br>
+                        break<br>
 main ()
                 
 </code>
