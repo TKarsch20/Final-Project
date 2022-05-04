@@ -12,7 +12,7 @@
    <img src="Coding.jpg"> 
             <p> Python is a coding language I started learning when I was 14 years old. I stopped practicing it after about a year but have recently started picking it back up for my college coursework. Below you will see a program I wrote to calculate the total estimated cost to coat a cylinder in paint. </p>
 
-```markdown
+<code>
 import math
 def get_nonnegative_float_from_user(prompt):
     while True:
@@ -49,7 +49,7 @@ def main():
                         break
 main ()
                 
-```
+</code>
 </body>
 </html>
 [Next](NationalGuard.md)
