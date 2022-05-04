@@ -16,6 +16,7 @@
 
 <b>Senior Year:</b> During my senior year, the three sports I played were soccer, basketball, and track.
 
-[Home](README.md)  [Back](Hobbies.md)  [Next](DreamVacations.md)
+
   </body>
   </hmtl>
+[Home](README.md)  [Back](Hobbies.md)  [Next](DreamVacations.md)
