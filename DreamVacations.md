@@ -16,6 +16,7 @@
   <li> <a href="https://egypt.travel/" target="_blank"> <i>Egypt</i> </a> </li>
 </ol>
   
-[Home](README.md)  [Back](Hobbies.md)
+
   </body>
   </html>
+[Home](README.md)  [Back](Hobbies.md)
