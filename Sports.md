@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+    <head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+  </head>
 <body>
   
 <h2> <a href="https://www.theatlantic.com/education/archive/2013/09/when-did-competitive-sports-take-over-american-childhood/279868/" target="_blank"> High School Sports </a> </h2>
