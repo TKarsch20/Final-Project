@@ -16,7 +16,6 @@
 <p> I enjoy doing all of these things because they bring me joy and are relaxing to do </p>
 
 
-[Home](README.md) [Back](NationalGuard.md)  [Next](Sports.md)
   </body>
   </html>
 [Home](README.md) [Back](NationalGuard.md)  [Next](Sports.md)
